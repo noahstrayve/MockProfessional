@@ -8,31 +8,31 @@ const Headline = props => {
 					<h1>Company Name</h1>
 				</div>
 				<div className="routesHolder">
-					<div className="routerBoxes boxOne">
+					<Link to="/"><div className="routerBoxes boxOne">
 						<div className="routeText">
-							<p id="textExp">Option One</p>
+							<p id="textExp">Home</p>
 						</div>
-					</div>
-					<div className="routerBoxes">
+					</div></Link>
+					<Link to="/mission"><div className="routerBoxes">
 						<div className="routeText">
-							<p id="textExp">Option Two</p>
+							<p id="textExp">Mission</p>
 						</div>
-					</div>
-					<div className="routerBoxes">
+					</div></Link>
+					<Link to="/regions"><div className="routerBoxes">
 						<div className="routeText">
-							<p id="textExp">Option Three</p>
+							<p id="textExp">Regions</p>
 						</div>
-					</div>
-					<div className="routerBoxes">
+					</div></Link>
+					<Link to="/team"><div className="routerBoxes">
 						<div className="routeText">
-							<p id="textExp">Option Four</p>
+							<p id="textExp">Team</p>
 						</div>
-					</div>
-					<div className="routerBoxes">
+					</div></Link>
+					<Link to="/contact"><div className="routerBoxes">
 						<div className="routeText">
-							<p id="textExp">Option Five</p>
+							<p id="textExp">Contact</p>
 						</div>
-					</div>
+					</div></Link>
 				</div>
 			</div>;
 }

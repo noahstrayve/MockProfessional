@@ -8,10 +8,36 @@ import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 class App extends Component {
   render() {
     return (
-    	<div>
-      		<Headline/>
-      		<HomePage/>
-      	</div>
+      	<Router>
+      		<div>
+
+        		<Route exact path="/" 
+                   render={() => <div>
+                                    <Headline />
+      								<HomePage />
+                                  </div>} />
+
+      			<Route exact path="/contact" 
+                   render={() => <div>
+                                    <Headline />
+                                  </div>} />
+
+      			<Route exact path="/mission" 
+                   render={() => <div>
+                                    <Headline />
+                                  </div>} />
+
+      			<Route exact path="/regions" 
+                   render={() => <div>
+                                    <Headline />
+                                  </div>} />
+                <Route exact path="/team" 
+                   render={() => <div>
+                                    <Headline />
+                                  </div>} />
+                                  
+      </div>
+    </Router>
     );
   }
 }
