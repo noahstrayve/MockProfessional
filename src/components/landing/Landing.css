@@ -1,0 +1,55 @@
+.landingMainImage {
+	width: 100%;
+	background: #8FBC8F;
+	height: 450px;
+	margin-top: 0px;
+}
+
+.welcomeMessageBox {
+	background: black;
+	color: white;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	opacity: 0.75;
+	width: 30%;
+	float: right;
+	margin-right: 60px;
+	margin-top: 200px;
+}
+
+.welcomeMessageHeadline {
+	margin-left: 30px;
+}
+
+.welcomeMessageSubtext {
+	margin-left: 50px;
+}
+
+.statsTitle {
+	width: 100%;
+	text-align: center;
+	margin-top: 50px;
+}
+
+.statTitleBreak{
+	width: 92%;
+}
+
+.statSideOne {
+	width: 45%;
+	float: left;
+	height: 150px;
+	padding-left: 5%;
+}
+
+.statSideTwo {
+	width: 45%;
+	float: left;
+	height: 150px;
+	padding-left: 5%;
+
+}
+
+.statLayer {
+	width: 100%;
+}
