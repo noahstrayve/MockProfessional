@@ -1,13 +1,55 @@
+.teamPageContent {
+	width: 92%;
+	margin-left: 4%;
+	margin-right: 4%;
+}
+
+.teamPage {
+	background: #F5F5DC;
+	width: 92%;
+	margin-left: 4%;
+	height: 900px;
+	margin-top: -21px;
+}
+
 .teamMemberLayer {
-	width: 100%;
+	width: 92%;
+	margin-left: 4%;
+	margin-right: 4%;
+	background: #F5F5DC;
+
 }
 
 .teamMemberCard {
-	width: 50%;
+	width: 41%;
+	float: left;
+	margin-top: 60px;
+	margin-left: 5%;
+
 }
 
 .teamMemberImageHolder {
 	background-image: url('../../images/EmployeeNonProfit.jpeg');
-	height: 150px;
-	width: 150px;
+	height: 120px;
+	width: 120px;
+	float: left;
+	border-radius: 50%;
+}
+
+.teamMemberText {
+	float: left;
+	padding-left: 45px;
+	margin-top: -10px;
+}
+
+.teamTitleText {
+	text-align: center;
+	margin-bottom: 30px;
+	padding-top: 30px;
+}
+
+.teamTitleBreak {
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-bottom: 5px;
 }

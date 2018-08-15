@@ -1,8 +1,14 @@
 .landingMainImage {
-	width: 100%;
 	background: #8FBC8F;
 	height: 450px;
 	margin-top: 0px;
+}
+
+.landingPage {
+	width: 92%;
+	margin-left: 4%;
+	margin-right: 4%;
+	background: #F5F5DC;
 }
 
 .welcomeMessageBox {
@@ -26,9 +32,13 @@
 }
 
 .statsTitle {
-	width: 100%;
+	width: 92%;
 	text-align: center;
 	margin-top: 50px;
+}
+
+.statsContainer {
+	height: 100px;
 }
 
 .statTitleBreak{
@@ -40,6 +50,7 @@
 	float: left;
 	height: 150px;
 	padding-left: 5%;
+	background: #F5F5DC;
 }
 
 .statSideTwo {
@@ -47,9 +58,10 @@
 	float: left;
 	height: 150px;
 	padding-left: 5%;
+	background: #F5F5DC;
 
 }
 
 .statLayer {
-	width: 100%;
+	background: #F5F5DC;
 }

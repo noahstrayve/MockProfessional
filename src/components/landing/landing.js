@@ -14,6 +14,10 @@ const HomePage = props => {
 						</div>
 					</div>
 				</div>
+				<div className="">
+					<div className="">
+					</div>
+				</div>
 				<div className="statsContainer">
 					<div className="statsTitle">
 						<h1>STATISTICS</h1>

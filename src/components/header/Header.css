@@ -1,5 +1,5 @@
 .headerContainer {
-	background: #FF7F50;
+	background: #E59D5C;
 	margin-top: -22px;
 }
 
@@ -10,7 +10,8 @@
 .routesHolder {
 	height: 30px;
 	width: 100%;
-	background: #FFEBCD;
+	background: #F3D3B8;
+	color: black;
 	margin-top: -15px;
 }
 
@@ -21,14 +22,17 @@
 	height: 10px;
 	padding-bottom: 20px;
 	padding-top: 0px;
+	color: black;
 }
 
 .routeText:hover {
-	background: red;
+	background: #FDD475;
+	color: black;
 }
 
 .routeText:active {
-	background: green;
+	background: #C1E1DC;
+	color: black;
 }
 
 .companyHolder {
