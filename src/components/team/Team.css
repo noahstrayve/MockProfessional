@@ -1,0 +1,13 @@
+.teamMemberLayer {
+	width: 100%;
+}
+
+.teamMemberCard {
+	width: 50%;
+}
+
+.teamMemberImageHolder {
+	background-image: url('../../images/EmployeeNonProfit.jpeg');
+	height: 150px;
+	width: 150px;
+}
