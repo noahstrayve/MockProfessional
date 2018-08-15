@@ -18,9 +18,10 @@
 	padding-bottom: 15px;
 	opacity: 0.75;
 	width: 30%;
-	float: right;
-	margin-right: 60px;
+	float: left;
+	margin-left: 65%;
 	margin-top: 270px;
+	z-index: -1;
 }
 
 .welcomeMessageHeadline {
