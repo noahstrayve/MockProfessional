@@ -1,0 +1,11 @@
+.footerBar {
+	height: 50px;
+	width: 100%;
+	background: #F3D3B8;
+	text-align: center;
+	margin-top: -20px;
+}
+
+.footerText {
+	padding-top: 15px;
+}

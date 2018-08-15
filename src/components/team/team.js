@@ -6,7 +6,7 @@ const TeamPage = props => {
 	return <div className="teamPage">
 			<div className="teamPageContent">
 				<div className="teamTitleBox">
-					<h1 className="teamTitleText">Team</h1>
+					<h1 className="teamTitleText">TEAM</h1>
 					<hr className="teamTitleBreak"/>
 				</div>
 				<div className="teamMemberLayer">

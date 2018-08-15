@@ -1,0 +1,53 @@
+.regionsPage {
+	width: 92%;
+	margin-left: 4%;
+	margin-right: 4%;
+	height: 1400px;
+	background: #F5F5DC;
+	margin-top: -21px;
+}
+
+.regionsTitleText {
+	text-align: center;
+	margin-bottom: 30px;
+	padding-top: 30px;
+}
+
+.regionsTitleBox {
+	width: 92%;
+	margin-left: 4%;
+	margin-right: 4%;
+	text-align: center;
+}
+
+.regionsTitleBreak {
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-bottom: 5px;
+}
+
+.regionsText {
+	width: 40%;
+	float: left;
+	margin-left: 5%;
+	margin-right: 5%;
+	height: 200px;
+	margin-top: 40px;
+}
+
+.regionsImageBox {
+	width: 40%;
+	float: left;
+	height: 200px;
+	margin-left: 5%;
+	margin-right: 5%;
+	background-image: url('../../images/NonProfitPollution.jpg');
+	margin-top: 40px;
+}
+
+.regionsContent {
+	margin-top: 40px;
+	width: 92%;
+	margin-left: 4%;
+	margin-right: 4%;
+}
